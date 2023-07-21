@@ -1,0 +1,17 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Jan 27 11:50:18 CET 2022
+https\://maven.repository.redhat.com/ga/.lastUpdated=1643280612604
+http\://0.0.0.0/.error=Could not transfer artifact org.jboss\:jboss-parent\:pom\:29 from/to maven-default-http-blocker (http\://0.0.0.0/)\: Blocked mirror for repositories\: [fuse-all (http\://nexus.fuse-qe.eng.rdu2.redhat.com/repository/fuse-all/, default, releases), fusesource (http\://repo.fusesource.com/nexus/content/groups/public/, default, releases), jboss-community-repository (http\://repository.jboss.org/nexus/content/groups/public/, default, releases), os-nexus (http\://nexus.fuse-qe.eng.rdu2.redhat.com/repository/fuse-all/, default, releases+snapshots), jboss.ea (http\://origin-repository.jboss.org/nexus/content/groups/ea, default, releases), jboss-earlyaccess-repository (http\://maven.repository.redhat.com/earlyaccess/all, default, releases+snapshots), jboss-ga-repository (http\://maven.repository.redhat.com/techpreview/all, default, releases+snapshots), jboss-qa-releases (http\://repository.engineering.redhat.com/nexus/content/repositories/jboss-qa-releases/, default, releases), brms-productization-repo (http\://download.eng.bos.redhat.com/brewroot/repos/jb-bxms-6.3-build/latest/maven/, default, releases)]
+https\://repo.fusesource.com/nexus/content/groups/public/.error=
+@default-maven-default-http-blocker-http\://0.0.0.0/.lastUpdated=1643280611650
+https\://maven.repository.redhat.com/earlyaccess/all/.lastUpdated=1643280612894
+https\://maven.repository.redhat.com/earlyaccess/all/.error=
+https\://repo.fusesource.com/nexus/content/groups/ea/.lastUpdated=1643280618804
+https\://repo.maven.apache.org/maven2/.lastUpdated=1643280618969
+https\://repo.fusesource.com/nexus/content/groups/public/.lastUpdated=1643280617921
+https\://origin-repository.jboss.org/nexus/content/repositories/fs-patches/.lastUpdated=1643280617602
+https\://repo.fusesource.com/nexus/content/groups/ea/.error=
+https\://repository.jboss.org/nexus/content/repositories/ea/.lastUpdated=1643280611912
+https\://repository.jboss.org/nexus/content/repositories/ea/.error=
+https\://maven.repository.redhat.com/ga/.error=
+https\://origin-repository.jboss.org/nexus/content/repositories/fs-patches/.error=
